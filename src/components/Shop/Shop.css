@@ -13,3 +13,12 @@
 
     gap: 20px;
 }
+
+.cart-container {
+    position: sticky;
+    width: 264px;
+    height: 500px;
+    top: 30px;
+
+    background: rgba(255, 153, 0, 0.3);
+}
